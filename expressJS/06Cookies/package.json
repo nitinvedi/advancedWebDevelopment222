@@ -1,0 +1,19 @@
+{
+  "name": "06cookies",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "cookie-session": "^2.1.1",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2"
+  }
+}
